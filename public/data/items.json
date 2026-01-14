@@ -3711,7 +3711,7 @@
   },
   {
     "name": "Relic of Mercy",
-    "description": "Revive allies faster and with more health.",
+    "description": "Revive allies faster and with more health. Only affects players in WvW.",
     "type": "Relic",
     "level": 80,
     "rarity": "Legendary",

@@ -30,6 +30,8 @@ interface StaticData {
   specializations?: GW2Specialization[];
   traits?: GW2Trait[];
   items?: GW2Item[];
+  consumables?: GW2Item[];
+  feastBuffs?: Record<string, { description: string }>;
 }
 
 class GW2ApiClient {
